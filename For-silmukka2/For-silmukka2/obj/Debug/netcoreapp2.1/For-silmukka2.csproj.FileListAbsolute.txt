@@ -1,0 +1,10 @@
+C:\Users\OMISTAJA\source\repos\For-silmukka2\For-silmukka2\bin\Debug\netcoreapp2.1\For-silmukka2.deps.json
+C:\Users\OMISTAJA\source\repos\For-silmukka2\For-silmukka2\bin\Debug\netcoreapp2.1\For-silmukka2.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\For-silmukka2\For-silmukka2\bin\Debug\netcoreapp2.1\For-silmukka2.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\For-silmukka2\For-silmukka2\bin\Debug\netcoreapp2.1\For-silmukka2.dll
+C:\Users\OMISTAJA\source\repos\For-silmukka2\For-silmukka2\bin\Debug\netcoreapp2.1\For-silmukka2.pdb
+C:\Users\OMISTAJA\source\repos\For-silmukka2\For-silmukka2\obj\Debug\netcoreapp2.1\For-silmukka2.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\For-silmukka2\For-silmukka2\obj\Debug\netcoreapp2.1\For-silmukka2.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\For-silmukka2\For-silmukka2\obj\Debug\netcoreapp2.1\For-silmukka2.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\For-silmukka2\For-silmukka2\obj\Debug\netcoreapp2.1\For-silmukka2.dll
+C:\Users\OMISTAJA\source\repos\For-silmukka2\For-silmukka2\obj\Debug\netcoreapp2.1\For-silmukka2.pdb

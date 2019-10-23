@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä3\bin\Debug\netcoreapp2.1\Tehtävä3.deps.json
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä3\bin\Debug\netcoreapp2.1\Tehtävä3.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä3\bin\Debug\netcoreapp2.1\Tehtävä3.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä3\bin\Debug\netcoreapp2.1\Tehtävä3.dll
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä3\bin\Debug\netcoreapp2.1\Tehtävä3.pdb
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä3\obj\Debug\netcoreapp2.1\Tehtävä3.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä3\obj\Debug\netcoreapp2.1\Tehtävä3.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä3\obj\Debug\netcoreapp2.1\Tehtävä3.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä3\obj\Debug\netcoreapp2.1\Tehtävä3.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä3\obj\Debug\netcoreapp2.1\Tehtävä3.dll
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä3\obj\Debug\netcoreapp2.1\Tehtävä3.pdb

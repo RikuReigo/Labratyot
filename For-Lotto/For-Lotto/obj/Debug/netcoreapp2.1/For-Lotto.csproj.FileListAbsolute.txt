@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\For-Lotto\For-Lotto\bin\Debug\netcoreapp2.1\For-Lotto.deps.json
+C:\Users\OMISTAJA\source\repos\For-Lotto\For-Lotto\bin\Debug\netcoreapp2.1\For-Lotto.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\For-Lotto\For-Lotto\bin\Debug\netcoreapp2.1\For-Lotto.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\For-Lotto\For-Lotto\bin\Debug\netcoreapp2.1\For-Lotto.dll
+C:\Users\OMISTAJA\source\repos\For-Lotto\For-Lotto\bin\Debug\netcoreapp2.1\For-Lotto.pdb
+C:\Users\OMISTAJA\source\repos\For-Lotto\For-Lotto\obj\Debug\netcoreapp2.1\For-Lotto.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\For-Lotto\For-Lotto\obj\Debug\netcoreapp2.1\For-Lotto.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\For-Lotto\For-Lotto\obj\Debug\netcoreapp2.1\For-Lotto.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\For-Lotto\For-Lotto\obj\Debug\netcoreapp2.1\For-Lotto.dll
+C:\Users\OMISTAJA\source\repos\For-Lotto\For-Lotto\obj\Debug\netcoreapp2.1\For-Lotto.pdb
+C:\Users\OMISTAJA\source\repos\For-Lotto\For-Lotto\obj\Debug\netcoreapp2.1\For-Lotto.csprojAssemblyReference.cache

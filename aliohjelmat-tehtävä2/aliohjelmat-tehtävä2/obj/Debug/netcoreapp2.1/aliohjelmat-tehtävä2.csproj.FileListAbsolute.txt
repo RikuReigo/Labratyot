@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\aliohjelmat-tehtävä2\aliohjelmat-tehtävä2\bin\Debug\netcoreapp2.1\aliohjelmat-tehtävä2.deps.json
+C:\Users\OMISTAJA\source\repos\aliohjelmat-tehtävä2\aliohjelmat-tehtävä2\bin\Debug\netcoreapp2.1\aliohjelmat-tehtävä2.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\aliohjelmat-tehtävä2\aliohjelmat-tehtävä2\bin\Debug\netcoreapp2.1\aliohjelmat-tehtävä2.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\aliohjelmat-tehtävä2\aliohjelmat-tehtävä2\bin\Debug\netcoreapp2.1\aliohjelmat-tehtävä2.dll
+C:\Users\OMISTAJA\source\repos\aliohjelmat-tehtävä2\aliohjelmat-tehtävä2\bin\Debug\netcoreapp2.1\aliohjelmat-tehtävä2.pdb
+C:\Users\OMISTAJA\source\repos\aliohjelmat-tehtävä2\aliohjelmat-tehtävä2\obj\Debug\netcoreapp2.1\aliohjelmat-tehtävä2.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\aliohjelmat-tehtävä2\aliohjelmat-tehtävä2\obj\Debug\netcoreapp2.1\aliohjelmat-tehtävä2.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\aliohjelmat-tehtävä2\aliohjelmat-tehtävä2\obj\Debug\netcoreapp2.1\aliohjelmat-tehtävä2.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\aliohjelmat-tehtävä2\aliohjelmat-tehtävä2\obj\Debug\netcoreapp2.1\aliohjelmat-tehtävä2.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\aliohjelmat-tehtävä2\aliohjelmat-tehtävä2\obj\Debug\netcoreapp2.1\aliohjelmat-tehtävä2.dll
+C:\Users\OMISTAJA\source\repos\aliohjelmat-tehtävä2\aliohjelmat-tehtävä2\obj\Debug\netcoreapp2.1\aliohjelmat-tehtävä2.pdb

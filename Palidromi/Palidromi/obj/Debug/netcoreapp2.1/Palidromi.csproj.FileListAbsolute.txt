@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\Palidromi\Palidromi\bin\Debug\netcoreapp2.1\Palidromi.deps.json
+C:\Users\OMISTAJA\source\repos\Palidromi\Palidromi\bin\Debug\netcoreapp2.1\Palidromi.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\Palidromi\Palidromi\bin\Debug\netcoreapp2.1\Palidromi.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\Palidromi\Palidromi\bin\Debug\netcoreapp2.1\Palidromi.dll
+C:\Users\OMISTAJA\source\repos\Palidromi\Palidromi\bin\Debug\netcoreapp2.1\Palidromi.pdb
+C:\Users\OMISTAJA\source\repos\Palidromi\Palidromi\obj\Debug\netcoreapp2.1\Palidromi.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\Palidromi\Palidromi\obj\Debug\netcoreapp2.1\Palidromi.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Palidromi\Palidromi\obj\Debug\netcoreapp2.1\Palidromi.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\Palidromi\Palidromi\obj\Debug\netcoreapp2.1\Palidromi.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\Palidromi\Palidromi\obj\Debug\netcoreapp2.1\Palidromi.dll
+C:\Users\OMISTAJA\source\repos\Palidromi\Palidromi\obj\Debug\netcoreapp2.1\Palidromi.pdb

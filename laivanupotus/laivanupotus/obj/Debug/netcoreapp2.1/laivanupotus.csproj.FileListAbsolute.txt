@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\laivanupotus\laivanupotus\obj\Debug\netcoreapp2.1\laivanupotus.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\laivanupotus\laivanupotus\obj\Debug\netcoreapp2.1\laivanupotus.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\laivanupotus\laivanupotus\obj\Debug\netcoreapp2.1\laivanupotus.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\laivanupotus\laivanupotus\obj\Debug\netcoreapp2.1\laivanupotus.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\laivanupotus\laivanupotus\bin\Debug\netcoreapp2.1\laivanupotus.deps.json
+C:\Users\OMISTAJA\source\repos\laivanupotus\laivanupotus\bin\Debug\netcoreapp2.1\laivanupotus.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\laivanupotus\laivanupotus\bin\Debug\netcoreapp2.1\laivanupotus.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\laivanupotus\laivanupotus\bin\Debug\netcoreapp2.1\laivanupotus.dll
+C:\Users\OMISTAJA\source\repos\laivanupotus\laivanupotus\bin\Debug\netcoreapp2.1\laivanupotus.pdb
+C:\Users\OMISTAJA\source\repos\laivanupotus\laivanupotus\obj\Debug\netcoreapp2.1\laivanupotus.dll
+C:\Users\OMISTAJA\source\repos\laivanupotus\laivanupotus\obj\Debug\netcoreapp2.1\laivanupotus.pdb

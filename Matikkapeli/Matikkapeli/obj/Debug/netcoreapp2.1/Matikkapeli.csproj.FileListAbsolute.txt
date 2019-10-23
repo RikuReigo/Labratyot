@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\Matikkapeli\Matikkapeli\bin\Debug\netcoreapp2.1\Matikkapeli.deps.json
+C:\Users\OMISTAJA\source\repos\Matikkapeli\Matikkapeli\bin\Debug\netcoreapp2.1\Matikkapeli.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\Matikkapeli\Matikkapeli\bin\Debug\netcoreapp2.1\Matikkapeli.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\Matikkapeli\Matikkapeli\bin\Debug\netcoreapp2.1\Matikkapeli.dll
+C:\Users\OMISTAJA\source\repos\Matikkapeli\Matikkapeli\bin\Debug\netcoreapp2.1\Matikkapeli.pdb
+C:\Users\OMISTAJA\source\repos\Matikkapeli\Matikkapeli\obj\Debug\netcoreapp2.1\Matikkapeli.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\Matikkapeli\Matikkapeli\obj\Debug\netcoreapp2.1\Matikkapeli.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Matikkapeli\Matikkapeli\obj\Debug\netcoreapp2.1\Matikkapeli.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\Matikkapeli\Matikkapeli\obj\Debug\netcoreapp2.1\Matikkapeli.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\Matikkapeli\Matikkapeli\obj\Debug\netcoreapp2.1\Matikkapeli.dll
+C:\Users\OMISTAJA\source\repos\Matikkapeli\Matikkapeli\obj\Debug\netcoreapp2.1\Matikkapeli.pdb

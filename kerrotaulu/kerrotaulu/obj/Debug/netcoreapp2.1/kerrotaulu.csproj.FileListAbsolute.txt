@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\kerrotaulu\kerrotaulu\bin\Debug\netcoreapp2.1\kerrotaulu.deps.json
+C:\Users\OMISTAJA\source\repos\kerrotaulu\kerrotaulu\bin\Debug\netcoreapp2.1\kerrotaulu.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\kerrotaulu\kerrotaulu\bin\Debug\netcoreapp2.1\kerrotaulu.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\kerrotaulu\kerrotaulu\bin\Debug\netcoreapp2.1\kerrotaulu.dll
+C:\Users\OMISTAJA\source\repos\kerrotaulu\kerrotaulu\bin\Debug\netcoreapp2.1\kerrotaulu.pdb
+C:\Users\OMISTAJA\source\repos\kerrotaulu\kerrotaulu\obj\Debug\netcoreapp2.1\kerrotaulu.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\kerrotaulu\kerrotaulu\obj\Debug\netcoreapp2.1\kerrotaulu.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\kerrotaulu\kerrotaulu\obj\Debug\netcoreapp2.1\kerrotaulu.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\kerrotaulu\kerrotaulu\obj\Debug\netcoreapp2.1\kerrotaulu.dll
+C:\Users\OMISTAJA\source\repos\kerrotaulu\kerrotaulu\obj\Debug\netcoreapp2.1\kerrotaulu.pdb
+C:\Users\OMISTAJA\source\repos\kerrotaulu\kerrotaulu\obj\Debug\netcoreapp2.1\kerrotaulu.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä 8\bin\Debug\netcoreapp2.1\Tehtävä 8.deps.json
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä 8\bin\Debug\netcoreapp2.1\Tehtävä 8.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä 8\bin\Debug\netcoreapp2.1\Tehtävä 8.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä 8\bin\Debug\netcoreapp2.1\Tehtävä 8.dll
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä 8\bin\Debug\netcoreapp2.1\Tehtävä 8.pdb
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä 8\bin\Debug\netcoreapp2.1\Elainluokat.dll
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä 8\bin\Debug\netcoreapp2.1\Elainluokat.pdb
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä 8\obj\Debug\netcoreapp2.1\Tehtävä 8.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä 8\obj\Debug\netcoreapp2.1\Tehtävä 8.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä 8\obj\Debug\netcoreapp2.1\Tehtävä 8.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä 8\obj\Debug\netcoreapp2.1\Tehtävä 8.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä 8\obj\Debug\netcoreapp2.1\Tehtävä 8.csproj.CopyComplete
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä 8\obj\Debug\netcoreapp2.1\Tehtävä 8.dll
+C:\Users\OMISTAJA\source\repos\Elaimet\Tehtävä 8\obj\Debug\netcoreapp2.1\Tehtävä 8.pdb

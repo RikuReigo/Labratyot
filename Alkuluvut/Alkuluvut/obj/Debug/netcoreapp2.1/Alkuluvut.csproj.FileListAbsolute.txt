@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\Alkuluvut\Alkuluvut\bin\Debug\netcoreapp2.1\Alkuluvut.deps.json
+C:\Users\OMISTAJA\source\repos\Alkuluvut\Alkuluvut\bin\Debug\netcoreapp2.1\Alkuluvut.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\Alkuluvut\Alkuluvut\bin\Debug\netcoreapp2.1\Alkuluvut.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\Alkuluvut\Alkuluvut\bin\Debug\netcoreapp2.1\Alkuluvut.dll
+C:\Users\OMISTAJA\source\repos\Alkuluvut\Alkuluvut\bin\Debug\netcoreapp2.1\Alkuluvut.pdb
+C:\Users\OMISTAJA\source\repos\Alkuluvut\Alkuluvut\obj\Debug\netcoreapp2.1\Alkuluvut.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\Alkuluvut\Alkuluvut\obj\Debug\netcoreapp2.1\Alkuluvut.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Alkuluvut\Alkuluvut\obj\Debug\netcoreapp2.1\Alkuluvut.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\Alkuluvut\Alkuluvut\obj\Debug\netcoreapp2.1\Alkuluvut.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\Alkuluvut\Alkuluvut\obj\Debug\netcoreapp2.1\Alkuluvut.dll
+C:\Users\OMISTAJA\source\repos\Alkuluvut\Alkuluvut\obj\Debug\netcoreapp2.1\Alkuluvut.pdb

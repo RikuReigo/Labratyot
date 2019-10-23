@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\Valuuttamuunnin\Valuuttamuunnin\bin\Debug\netcoreapp2.1\Valuuttamuunnin.deps.json
+C:\Users\OMISTAJA\source\repos\Valuuttamuunnin\Valuuttamuunnin\bin\Debug\netcoreapp2.1\Valuuttamuunnin.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\Valuuttamuunnin\Valuuttamuunnin\bin\Debug\netcoreapp2.1\Valuuttamuunnin.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\Valuuttamuunnin\Valuuttamuunnin\bin\Debug\netcoreapp2.1\Valuuttamuunnin.dll
+C:\Users\OMISTAJA\source\repos\Valuuttamuunnin\Valuuttamuunnin\bin\Debug\netcoreapp2.1\Valuuttamuunnin.pdb
+C:\Users\OMISTAJA\source\repos\Valuuttamuunnin\Valuuttamuunnin\obj\Debug\netcoreapp2.1\Valuuttamuunnin.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\Valuuttamuunnin\Valuuttamuunnin\obj\Debug\netcoreapp2.1\Valuuttamuunnin.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Valuuttamuunnin\Valuuttamuunnin\obj\Debug\netcoreapp2.1\Valuuttamuunnin.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\Valuuttamuunnin\Valuuttamuunnin\obj\Debug\netcoreapp2.1\Valuuttamuunnin.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\Valuuttamuunnin\Valuuttamuunnin\obj\Debug\netcoreapp2.1\Valuuttamuunnin.dll
+C:\Users\OMISTAJA\source\repos\Valuuttamuunnin\Valuuttamuunnin\obj\Debug\netcoreapp2.1\Valuuttamuunnin.pdb

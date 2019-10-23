@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\list-vaihe-2\list-vaihe-2\bin\Debug\netcoreapp2.1\list-vaihe-2.deps.json
+C:\Users\OMISTAJA\source\repos\list-vaihe-2\list-vaihe-2\bin\Debug\netcoreapp2.1\list-vaihe-2.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\list-vaihe-2\list-vaihe-2\bin\Debug\netcoreapp2.1\list-vaihe-2.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\list-vaihe-2\list-vaihe-2\bin\Debug\netcoreapp2.1\list-vaihe-2.dll
+C:\Users\OMISTAJA\source\repos\list-vaihe-2\list-vaihe-2\bin\Debug\netcoreapp2.1\list-vaihe-2.pdb
+C:\Users\OMISTAJA\source\repos\list-vaihe-2\list-vaihe-2\obj\Debug\netcoreapp2.1\list-vaihe-2.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\list-vaihe-2\list-vaihe-2\obj\Debug\netcoreapp2.1\list-vaihe-2.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\list-vaihe-2\list-vaihe-2\obj\Debug\netcoreapp2.1\list-vaihe-2.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\list-vaihe-2\list-vaihe-2\obj\Debug\netcoreapp2.1\list-vaihe-2.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\list-vaihe-2\list-vaihe-2\obj\Debug\netcoreapp2.1\list-vaihe-2.dll
+C:\Users\OMISTAJA\source\repos\list-vaihe-2\list-vaihe-2\obj\Debug\netcoreapp2.1\list-vaihe-2.pdb

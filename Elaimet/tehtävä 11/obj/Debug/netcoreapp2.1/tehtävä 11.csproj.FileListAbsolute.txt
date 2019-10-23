@@ -1,0 +1,14 @@
+C:\Users\OMISTAJA\source\repos\Elaimet\tehtävä 11\bin\Debug\netcoreapp2.1\tehtävä 11.deps.json
+C:\Users\OMISTAJA\source\repos\Elaimet\tehtävä 11\bin\Debug\netcoreapp2.1\tehtävä 11.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\Elaimet\tehtävä 11\bin\Debug\netcoreapp2.1\tehtävä 11.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\Elaimet\tehtävä 11\bin\Debug\netcoreapp2.1\tehtävä 11.dll
+C:\Users\OMISTAJA\source\repos\Elaimet\tehtävä 11\bin\Debug\netcoreapp2.1\tehtävä 11.pdb
+C:\Users\OMISTAJA\source\repos\Elaimet\tehtävä 11\bin\Debug\netcoreapp2.1\Elainluokat.dll
+C:\Users\OMISTAJA\source\repos\Elaimet\tehtävä 11\bin\Debug\netcoreapp2.1\Elainluokat.pdb
+C:\Users\OMISTAJA\source\repos\Elaimet\tehtävä 11\obj\Debug\netcoreapp2.1\tehtävä 11.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\Elaimet\tehtävä 11\obj\Debug\netcoreapp2.1\tehtävä 11.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Elaimet\tehtävä 11\obj\Debug\netcoreapp2.1\tehtävä 11.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\Elaimet\tehtävä 11\obj\Debug\netcoreapp2.1\tehtävä 11.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\Elaimet\tehtävä 11\obj\Debug\netcoreapp2.1\tehtävä 11.csproj.CopyComplete
+C:\Users\OMISTAJA\source\repos\Elaimet\tehtävä 11\obj\Debug\netcoreapp2.1\tehtävä 11.dll
+C:\Users\OMISTAJA\source\repos\Elaimet\tehtävä 11\obj\Debug\netcoreapp2.1\tehtävä 11.pdb

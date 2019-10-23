@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\merkin-tarkistus\merkin-tarkistus\bin\Debug\netcoreapp2.1\merkin-tarkistus.deps.json
+C:\Users\OMISTAJA\source\repos\merkin-tarkistus\merkin-tarkistus\bin\Debug\netcoreapp2.1\merkin-tarkistus.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\merkin-tarkistus\merkin-tarkistus\bin\Debug\netcoreapp2.1\merkin-tarkistus.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\merkin-tarkistus\merkin-tarkistus\bin\Debug\netcoreapp2.1\merkin-tarkistus.dll
+C:\Users\OMISTAJA\source\repos\merkin-tarkistus\merkin-tarkistus\bin\Debug\netcoreapp2.1\merkin-tarkistus.pdb
+C:\Users\OMISTAJA\source\repos\merkin-tarkistus\merkin-tarkistus\obj\Debug\netcoreapp2.1\merkin-tarkistus.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\merkin-tarkistus\merkin-tarkistus\obj\Debug\netcoreapp2.1\merkin-tarkistus.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\merkin-tarkistus\merkin-tarkistus\obj\Debug\netcoreapp2.1\merkin-tarkistus.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\merkin-tarkistus\merkin-tarkistus\obj\Debug\netcoreapp2.1\merkin-tarkistus.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\merkin-tarkistus\merkin-tarkistus\obj\Debug\netcoreapp2.1\merkin-tarkistus.dll
+C:\Users\OMISTAJA\source\repos\merkin-tarkistus\merkin-tarkistus\obj\Debug\netcoreapp2.1\merkin-tarkistus.pdb

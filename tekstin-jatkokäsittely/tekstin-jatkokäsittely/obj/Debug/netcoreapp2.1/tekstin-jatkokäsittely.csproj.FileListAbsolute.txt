@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\tekstin-jatkokäsittely\tekstin-jatkokäsittely\bin\Debug\netcoreapp2.1\tekstin-jatkokäsittely.deps.json
+C:\Users\OMISTAJA\source\repos\tekstin-jatkokäsittely\tekstin-jatkokäsittely\bin\Debug\netcoreapp2.1\tekstin-jatkokäsittely.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\tekstin-jatkokäsittely\tekstin-jatkokäsittely\bin\Debug\netcoreapp2.1\tekstin-jatkokäsittely.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\tekstin-jatkokäsittely\tekstin-jatkokäsittely\bin\Debug\netcoreapp2.1\tekstin-jatkokäsittely.dll
+C:\Users\OMISTAJA\source\repos\tekstin-jatkokäsittely\tekstin-jatkokäsittely\bin\Debug\netcoreapp2.1\tekstin-jatkokäsittely.pdb
+C:\Users\OMISTAJA\source\repos\tekstin-jatkokäsittely\tekstin-jatkokäsittely\obj\Debug\netcoreapp2.1\tekstin-jatkokäsittely.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\tekstin-jatkokäsittely\tekstin-jatkokäsittely\obj\Debug\netcoreapp2.1\tekstin-jatkokäsittely.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\tekstin-jatkokäsittely\tekstin-jatkokäsittely\obj\Debug\netcoreapp2.1\tekstin-jatkokäsittely.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\tekstin-jatkokäsittely\tekstin-jatkokäsittely\obj\Debug\netcoreapp2.1\tekstin-jatkokäsittely.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\tekstin-jatkokäsittely\tekstin-jatkokäsittely\obj\Debug\netcoreapp2.1\tekstin-jatkokäsittely.dll
+C:\Users\OMISTAJA\source\repos\tekstin-jatkokäsittely\tekstin-jatkokäsittely\obj\Debug\netcoreapp2.1\tekstin-jatkokäsittely.pdb

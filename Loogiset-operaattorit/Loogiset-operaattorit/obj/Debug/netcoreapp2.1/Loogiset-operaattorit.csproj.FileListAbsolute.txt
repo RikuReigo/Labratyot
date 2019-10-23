@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\Loogiset-operaattorit\Loogiset-operaattorit\bin\Debug\netcoreapp2.1\Loogiset-operaattorit.deps.json
+C:\Users\OMISTAJA\source\repos\Loogiset-operaattorit\Loogiset-operaattorit\bin\Debug\netcoreapp2.1\Loogiset-operaattorit.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\Loogiset-operaattorit\Loogiset-operaattorit\bin\Debug\netcoreapp2.1\Loogiset-operaattorit.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\Loogiset-operaattorit\Loogiset-operaattorit\bin\Debug\netcoreapp2.1\Loogiset-operaattorit.dll
+C:\Users\OMISTAJA\source\repos\Loogiset-operaattorit\Loogiset-operaattorit\bin\Debug\netcoreapp2.1\Loogiset-operaattorit.pdb
+C:\Users\OMISTAJA\source\repos\Loogiset-operaattorit\Loogiset-operaattorit\obj\Debug\netcoreapp2.1\Loogiset-operaattorit.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\Loogiset-operaattorit\Loogiset-operaattorit\obj\Debug\netcoreapp2.1\Loogiset-operaattorit.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Loogiset-operaattorit\Loogiset-operaattorit\obj\Debug\netcoreapp2.1\Loogiset-operaattorit.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\Loogiset-operaattorit\Loogiset-operaattorit\obj\Debug\netcoreapp2.1\Loogiset-operaattorit.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\Loogiset-operaattorit\Loogiset-operaattorit\obj\Debug\netcoreapp2.1\Loogiset-operaattorit.dll
+C:\Users\OMISTAJA\source\repos\Loogiset-operaattorit\Loogiset-operaattorit\obj\Debug\netcoreapp2.1\Loogiset-operaattorit.pdb

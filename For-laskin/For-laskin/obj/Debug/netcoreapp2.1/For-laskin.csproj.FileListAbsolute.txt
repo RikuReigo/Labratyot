@@ -1,0 +1,10 @@
+C:\Users\OMISTAJA\source\repos\For-laskin\For-laskin\bin\Debug\netcoreapp2.1\For-laskin.deps.json
+C:\Users\OMISTAJA\source\repos\For-laskin\For-laskin\bin\Debug\netcoreapp2.1\For-laskin.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\For-laskin\For-laskin\bin\Debug\netcoreapp2.1\For-laskin.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\For-laskin\For-laskin\bin\Debug\netcoreapp2.1\For-laskin.dll
+C:\Users\OMISTAJA\source\repos\For-laskin\For-laskin\bin\Debug\netcoreapp2.1\For-laskin.pdb
+C:\Users\OMISTAJA\source\repos\For-laskin\For-laskin\obj\Debug\netcoreapp2.1\For-laskin.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\For-laskin\For-laskin\obj\Debug\netcoreapp2.1\For-laskin.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\For-laskin\For-laskin\obj\Debug\netcoreapp2.1\For-laskin.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\For-laskin\For-laskin\obj\Debug\netcoreapp2.1\For-laskin.dll
+C:\Users\OMISTAJA\source\repos\For-laskin\For-laskin\obj\Debug\netcoreapp2.1\For-laskin.pdb

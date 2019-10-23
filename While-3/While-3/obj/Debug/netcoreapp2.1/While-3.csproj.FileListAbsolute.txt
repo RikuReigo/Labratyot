@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\While-3\While-3\bin\Debug\netcoreapp2.1\While-3.deps.json
+C:\Users\OMISTAJA\source\repos\While-3\While-3\bin\Debug\netcoreapp2.1\While-3.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\While-3\While-3\bin\Debug\netcoreapp2.1\While-3.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\While-3\While-3\bin\Debug\netcoreapp2.1\While-3.dll
+C:\Users\OMISTAJA\source\repos\While-3\While-3\bin\Debug\netcoreapp2.1\While-3.pdb
+C:\Users\OMISTAJA\source\repos\While-3\While-3\obj\Debug\netcoreapp2.1\While-3.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\While-3\While-3\obj\Debug\netcoreapp2.1\While-3.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\While-3\While-3\obj\Debug\netcoreapp2.1\While-3.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\While-3\While-3\obj\Debug\netcoreapp2.1\While-3.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\While-3\While-3\obj\Debug\netcoreapp2.1\While-3.dll
+C:\Users\OMISTAJA\source\repos\While-3\While-3\obj\Debug\netcoreapp2.1\While-3.pdb

@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\For-Lukupyramidi\For-Lukupyramidi\bin\Debug\netcoreapp2.1\For-Lukupyramidi.deps.json
+C:\Users\OMISTAJA\source\repos\For-Lukupyramidi\For-Lukupyramidi\bin\Debug\netcoreapp2.1\For-Lukupyramidi.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\For-Lukupyramidi\For-Lukupyramidi\bin\Debug\netcoreapp2.1\For-Lukupyramidi.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\For-Lukupyramidi\For-Lukupyramidi\bin\Debug\netcoreapp2.1\For-Lukupyramidi.dll
+C:\Users\OMISTAJA\source\repos\For-Lukupyramidi\For-Lukupyramidi\bin\Debug\netcoreapp2.1\For-Lukupyramidi.pdb
+C:\Users\OMISTAJA\source\repos\For-Lukupyramidi\For-Lukupyramidi\obj\Debug\netcoreapp2.1\For-Lukupyramidi.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\For-Lukupyramidi\For-Lukupyramidi\obj\Debug\netcoreapp2.1\For-Lukupyramidi.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\For-Lukupyramidi\For-Lukupyramidi\obj\Debug\netcoreapp2.1\For-Lukupyramidi.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\For-Lukupyramidi\For-Lukupyramidi\obj\Debug\netcoreapp2.1\For-Lukupyramidi.dll
+C:\Users\OMISTAJA\source\repos\For-Lukupyramidi\For-Lukupyramidi\obj\Debug\netcoreapp2.1\For-Lukupyramidi.pdb
+C:\Users\OMISTAJA\source\repos\For-Lukupyramidi\For-Lukupyramidi\obj\Debug\netcoreapp2.1\For-Lukupyramidi.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\Foreach\Foreach\bin\Debug\netcoreapp2.1\Foreach.deps.json
+C:\Users\OMISTAJA\source\repos\Foreach\Foreach\bin\Debug\netcoreapp2.1\Foreach.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\Foreach\Foreach\bin\Debug\netcoreapp2.1\Foreach.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\Foreach\Foreach\bin\Debug\netcoreapp2.1\Foreach.dll
+C:\Users\OMISTAJA\source\repos\Foreach\Foreach\bin\Debug\netcoreapp2.1\Foreach.pdb
+C:\Users\OMISTAJA\source\repos\Foreach\Foreach\obj\Debug\netcoreapp2.1\Foreach.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\Foreach\Foreach\obj\Debug\netcoreapp2.1\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Foreach\Foreach\obj\Debug\netcoreapp2.1\Foreach.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\Foreach\Foreach\obj\Debug\netcoreapp2.1\Foreach.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\Foreach\Foreach\obj\Debug\netcoreapp2.1\Foreach.dll
+C:\Users\OMISTAJA\source\repos\Foreach\Foreach\obj\Debug\netcoreapp2.1\Foreach.pdb

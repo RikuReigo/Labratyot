@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\If-lauseet\If-lauseet\obj\Debug\netcoreapp2.1\If-lauseet.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\If-lauseet\If-lauseet\obj\Debug\netcoreapp2.1\If-lauseet.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\If-lauseet\If-lauseet\obj\Debug\netcoreapp2.1\If-lauseet.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\If-lauseet\If-lauseet\obj\Debug\netcoreapp2.1\If-lauseet.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\If-lauseet\If-lauseet\bin\Debug\netcoreapp2.1\If-lauseet.deps.json
+C:\Users\OMISTAJA\source\repos\If-lauseet\If-lauseet\bin\Debug\netcoreapp2.1\If-lauseet.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\If-lauseet\If-lauseet\bin\Debug\netcoreapp2.1\If-lauseet.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\If-lauseet\If-lauseet\bin\Debug\netcoreapp2.1\If-lauseet.dll
+C:\Users\OMISTAJA\source\repos\If-lauseet\If-lauseet\bin\Debug\netcoreapp2.1\If-lauseet.pdb
+C:\Users\OMISTAJA\source\repos\If-lauseet\If-lauseet\obj\Debug\netcoreapp2.1\If-lauseet.dll
+C:\Users\OMISTAJA\source\repos\If-lauseet\If-lauseet\obj\Debug\netcoreapp2.1\If-lauseet.pdb

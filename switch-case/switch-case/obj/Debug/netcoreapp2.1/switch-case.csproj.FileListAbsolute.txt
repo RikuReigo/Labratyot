@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\switch-case\switch-case\bin\Debug\netcoreapp2.1\switch-case.deps.json
+C:\Users\OMISTAJA\source\repos\switch-case\switch-case\bin\Debug\netcoreapp2.1\switch-case.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\switch-case\switch-case\bin\Debug\netcoreapp2.1\switch-case.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\switch-case\switch-case\bin\Debug\netcoreapp2.1\switch-case.dll
+C:\Users\OMISTAJA\source\repos\switch-case\switch-case\bin\Debug\netcoreapp2.1\switch-case.pdb
+C:\Users\OMISTAJA\source\repos\switch-case\switch-case\obj\Debug\netcoreapp2.1\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\switch-case\switch-case\obj\Debug\netcoreapp2.1\switch-case.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\switch-case\switch-case\obj\Debug\netcoreapp2.1\switch-case.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\switch-case\switch-case\obj\Debug\netcoreapp2.1\switch-case.dll
+C:\Users\OMISTAJA\source\repos\switch-case\switch-case\obj\Debug\netcoreapp2.1\switch-case.pdb
+C:\Users\OMISTAJA\source\repos\switch-case\switch-case\obj\Debug\netcoreapp2.1\switch-case.csprojAssemblyReference.cache

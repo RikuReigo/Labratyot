@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\noppapeli\noppapeli\bin\Debug\netcoreapp2.1\noppapeli.deps.json
+C:\Users\OMISTAJA\source\repos\noppapeli\noppapeli\bin\Debug\netcoreapp2.1\noppapeli.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\noppapeli\noppapeli\bin\Debug\netcoreapp2.1\noppapeli.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\noppapeli\noppapeli\bin\Debug\netcoreapp2.1\noppapeli.dll
+C:\Users\OMISTAJA\source\repos\noppapeli\noppapeli\bin\Debug\netcoreapp2.1\noppapeli.pdb
+C:\Users\OMISTAJA\source\repos\noppapeli\noppapeli\obj\Debug\netcoreapp2.1\noppapeli.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\noppapeli\noppapeli\obj\Debug\netcoreapp2.1\noppapeli.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\noppapeli\noppapeli\obj\Debug\netcoreapp2.1\noppapeli.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\noppapeli\noppapeli\obj\Debug\netcoreapp2.1\noppapeli.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\noppapeli\noppapeli\obj\Debug\netcoreapp2.1\noppapeli.dll
+C:\Users\OMISTAJA\source\repos\noppapeli\noppapeli\obj\Debug\netcoreapp2.1\noppapeli.pdb

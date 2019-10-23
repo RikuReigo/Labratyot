@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\Helikopteri\Helikopteri\bin\Debug\netcoreapp2.1\Helikopteri.deps.json
+C:\Users\OMISTAJA\source\repos\Helikopteri\Helikopteri\bin\Debug\netcoreapp2.1\Helikopteri.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\Helikopteri\Helikopteri\bin\Debug\netcoreapp2.1\Helikopteri.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\Helikopteri\Helikopteri\bin\Debug\netcoreapp2.1\Helikopteri.dll
+C:\Users\OMISTAJA\source\repos\Helikopteri\Helikopteri\bin\Debug\netcoreapp2.1\Helikopteri.pdb
+C:\Users\OMISTAJA\source\repos\Helikopteri\Helikopteri\obj\Debug\netcoreapp2.1\Helikopteri.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\Helikopteri\Helikopteri\obj\Debug\netcoreapp2.1\Helikopteri.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Helikopteri\Helikopteri\obj\Debug\netcoreapp2.1\Helikopteri.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\Helikopteri\Helikopteri\obj\Debug\netcoreapp2.1\Helikopteri.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\Helikopteri\Helikopteri\obj\Debug\netcoreapp2.1\Helikopteri.dll
+C:\Users\OMISTAJA\source\repos\Helikopteri\Helikopteri\obj\Debug\netcoreapp2.1\Helikopteri.pdb

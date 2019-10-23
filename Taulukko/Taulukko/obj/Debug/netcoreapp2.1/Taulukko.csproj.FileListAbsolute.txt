@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\Taulukko\Taulukko\bin\Debug\netcoreapp2.1\Taulukko.deps.json
+C:\Users\OMISTAJA\source\repos\Taulukko\Taulukko\bin\Debug\netcoreapp2.1\Taulukko.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\Taulukko\Taulukko\bin\Debug\netcoreapp2.1\Taulukko.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\Taulukko\Taulukko\bin\Debug\netcoreapp2.1\Taulukko.dll
+C:\Users\OMISTAJA\source\repos\Taulukko\Taulukko\bin\Debug\netcoreapp2.1\Taulukko.pdb
+C:\Users\OMISTAJA\source\repos\Taulukko\Taulukko\obj\Debug\netcoreapp2.1\Taulukko.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\Taulukko\Taulukko\obj\Debug\netcoreapp2.1\Taulukko.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Taulukko\Taulukko\obj\Debug\netcoreapp2.1\Taulukko.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\Taulukko\Taulukko\obj\Debug\netcoreapp2.1\Taulukko.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\Taulukko\Taulukko\obj\Debug\netcoreapp2.1\Taulukko.dll
+C:\Users\OMISTAJA\source\repos\Taulukko\Taulukko\obj\Debug\netcoreapp2.1\Taulukko.pdb

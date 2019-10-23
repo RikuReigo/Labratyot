@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\Vakioluettelo\Vakioluettelo\bin\Debug\netcoreapp2.1\Vakioluettelo.deps.json
+C:\Users\OMISTAJA\source\repos\Vakioluettelo\Vakioluettelo\bin\Debug\netcoreapp2.1\Vakioluettelo.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\Vakioluettelo\Vakioluettelo\bin\Debug\netcoreapp2.1\Vakioluettelo.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\Vakioluettelo\Vakioluettelo\bin\Debug\netcoreapp2.1\Vakioluettelo.dll
+C:\Users\OMISTAJA\source\repos\Vakioluettelo\Vakioluettelo\bin\Debug\netcoreapp2.1\Vakioluettelo.pdb
+C:\Users\OMISTAJA\source\repos\Vakioluettelo\Vakioluettelo\obj\Debug\netcoreapp2.1\Vakioluettelo.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\Vakioluettelo\Vakioluettelo\obj\Debug\netcoreapp2.1\Vakioluettelo.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Vakioluettelo\Vakioluettelo\obj\Debug\netcoreapp2.1\Vakioluettelo.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\Vakioluettelo\Vakioluettelo\obj\Debug\netcoreapp2.1\Vakioluettelo.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\Vakioluettelo\Vakioluettelo\obj\Debug\netcoreapp2.1\Vakioluettelo.dll
+C:\Users\OMISTAJA\source\repos\Vakioluettelo\Vakioluettelo\obj\Debug\netcoreapp2.1\Vakioluettelo.pdb

@@ -1,0 +1,11 @@
+C:\Users\torppjus\Documents\Visual Studio 2015\Projects\Oliotehtävä\Elaimet1\bin\Debug\Elaimet1.exe.config
+C:\Users\torppjus\Documents\Visual Studio 2015\Projects\Oliotehtävä\Elaimet1\bin\Debug\Elaimet1.exe
+C:\Users\torppjus\Documents\Visual Studio 2015\Projects\Oliotehtävä\Elaimet1\bin\Debug\Elaimet1.pdb
+C:\Users\torppjus\Documents\Visual Studio 2015\Projects\Oliotehtävä\Elaimet1\obj\Debug\Hevonen.csprojResolveAssemblyReference.cache
+C:\Users\torppjus\Documents\Visual Studio 2015\Projects\Oliotehtävä\Elaimet1\obj\Debug\Elaimet1.exe
+C:\Users\torppjus\Documents\Visual Studio 2015\Projects\Oliotehtävä\Elaimet1\obj\Debug\Elaimet1.pdb
+H:\VB\koe\Elaimet1\bin\Debug\Elaimet1.exe.config
+H:\VB\koe\Elaimet1\obj\Debug\Elaimet1.exe
+H:\VB\koe\Elaimet1\obj\Debug\Elaimet1.pdb
+H:\VB\koe\Elaimet1\bin\Debug\Elaimet.exe.config
+H:\VB\koe\Elaimet\bin\Debug\Elaimet.exe.config

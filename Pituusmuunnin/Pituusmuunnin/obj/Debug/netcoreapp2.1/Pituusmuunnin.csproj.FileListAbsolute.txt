@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\Pituusmuunnin\Pituusmuunnin\bin\Debug\netcoreapp2.1\Pituusmuunnin.deps.json
+C:\Users\OMISTAJA\source\repos\Pituusmuunnin\Pituusmuunnin\bin\Debug\netcoreapp2.1\Pituusmuunnin.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\Pituusmuunnin\Pituusmuunnin\bin\Debug\netcoreapp2.1\Pituusmuunnin.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\Pituusmuunnin\Pituusmuunnin\bin\Debug\netcoreapp2.1\Pituusmuunnin.dll
+C:\Users\OMISTAJA\source\repos\Pituusmuunnin\Pituusmuunnin\bin\Debug\netcoreapp2.1\Pituusmuunnin.pdb
+C:\Users\OMISTAJA\source\repos\Pituusmuunnin\Pituusmuunnin\obj\Debug\netcoreapp2.1\Pituusmuunnin.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Pituusmuunnin\Pituusmuunnin\obj\Debug\netcoreapp2.1\Pituusmuunnin.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\Pituusmuunnin\Pituusmuunnin\obj\Debug\netcoreapp2.1\Pituusmuunnin.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\Pituusmuunnin\Pituusmuunnin\obj\Debug\netcoreapp2.1\Pituusmuunnin.dll
+C:\Users\OMISTAJA\source\repos\Pituusmuunnin\Pituusmuunnin\obj\Debug\netcoreapp2.1\Pituusmuunnin.pdb
+C:\Users\OMISTAJA\source\repos\Pituusmuunnin\Pituusmuunnin\obj\Debug\netcoreapp2.1\Pituusmuunnin.csprojAssemblyReference.cache

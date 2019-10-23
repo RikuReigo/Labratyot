@@ -1,0 +1,7 @@
+C:\Users\OMISTAJA\source\repos\Elaimet\Elaimet\bin\Debug\Elaimet.exe.config
+C:\Users\OMISTAJA\source\repos\Elaimet\Elaimet\bin\Debug\Elaimet.exe
+C:\Users\OMISTAJA\source\repos\Elaimet\Elaimet\bin\Debug\Elaimet.pdb
+C:\Users\OMISTAJA\source\repos\Elaimet\Elaimet\obj\Debug\Tehtävä1.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\Elaimet\Elaimet\obj\Debug\Tehtävä1.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Elaimet\Elaimet\obj\Debug\Elaimet.exe
+C:\Users\OMISTAJA\source\repos\Elaimet\Elaimet\obj\Debug\Elaimet.pdb

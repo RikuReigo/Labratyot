@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\Tulostus\Tulostus\bin\Debug\netcoreapp2.1\Tulostus.deps.json
+C:\Users\OMISTAJA\source\repos\Tulostus\Tulostus\bin\Debug\netcoreapp2.1\Tulostus.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\Tulostus\Tulostus\bin\Debug\netcoreapp2.1\Tulostus.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\Tulostus\Tulostus\bin\Debug\netcoreapp2.1\Tulostus.dll
+C:\Users\OMISTAJA\source\repos\Tulostus\Tulostus\bin\Debug\netcoreapp2.1\Tulostus.pdb
+C:\Users\OMISTAJA\source\repos\Tulostus\Tulostus\obj\Debug\netcoreapp2.1\Tulostus.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\Tulostus\Tulostus\obj\Debug\netcoreapp2.1\Tulostus.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Tulostus\Tulostus\obj\Debug\netcoreapp2.1\Tulostus.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\Tulostus\Tulostus\obj\Debug\netcoreapp2.1\Tulostus.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\Tulostus\Tulostus\obj\Debug\netcoreapp2.1\Tulostus.dll
+C:\Users\OMISTAJA\source\repos\Tulostus\Tulostus\obj\Debug\netcoreapp2.1\Tulostus.pdb

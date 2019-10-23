@@ -1,0 +1,6 @@
+C:\Users\OMISTAJA\source\repos\Elaimet\Elainluokat\bin\Debug\Elainluokat.dll
+C:\Users\OMISTAJA\source\repos\Elaimet\Elainluokat\bin\Debug\Elainluokat.pdb
+C:\Users\OMISTAJA\source\repos\Elaimet\Elainluokat\obj\Debug\Elainluokat.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\Elaimet\Elainluokat\obj\Debug\Elainluokat.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Elaimet\Elainluokat\obj\Debug\Elainluokat.dll
+C:\Users\OMISTAJA\source\repos\Elaimet\Elainluokat\obj\Debug\Elainluokat.pdb

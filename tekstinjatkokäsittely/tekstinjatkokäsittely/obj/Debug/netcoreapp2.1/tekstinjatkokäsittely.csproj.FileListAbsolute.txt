@@ -1,0 +1,10 @@
+C:\Users\OMISTAJA\source\repos\tekstinjatkokäsittely\tekstinjatkokäsittely\bin\Debug\netcoreapp2.1\tekstinjatkokäsittely.deps.json
+C:\Users\OMISTAJA\source\repos\tekstinjatkokäsittely\tekstinjatkokäsittely\bin\Debug\netcoreapp2.1\tekstinjatkokäsittely.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\tekstinjatkokäsittely\tekstinjatkokäsittely\bin\Debug\netcoreapp2.1\tekstinjatkokäsittely.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\tekstinjatkokäsittely\tekstinjatkokäsittely\bin\Debug\netcoreapp2.1\tekstinjatkokäsittely.dll
+C:\Users\OMISTAJA\source\repos\tekstinjatkokäsittely\tekstinjatkokäsittely\bin\Debug\netcoreapp2.1\tekstinjatkokäsittely.pdb
+C:\Users\OMISTAJA\source\repos\tekstinjatkokäsittely\tekstinjatkokäsittely\obj\Debug\netcoreapp2.1\tekstinjatkokäsittely.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\tekstinjatkokäsittely\tekstinjatkokäsittely\obj\Debug\netcoreapp2.1\tekstinjatkokäsittely.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\tekstinjatkokäsittely\tekstinjatkokäsittely\obj\Debug\netcoreapp2.1\tekstinjatkokäsittely.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\tekstinjatkokäsittely\tekstinjatkokäsittely\obj\Debug\netcoreapp2.1\tekstinjatkokäsittely.dll
+C:\Users\OMISTAJA\source\repos\tekstinjatkokäsittely\tekstinjatkokäsittely\obj\Debug\netcoreapp2.1\tekstinjatkokäsittely.pdb

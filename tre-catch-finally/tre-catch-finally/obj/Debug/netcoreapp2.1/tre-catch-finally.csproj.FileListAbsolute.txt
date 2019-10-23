@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\tre-catch-finally\tre-catch-finally\obj\Debug\netcoreapp2.1\tre-catch-finally.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\tre-catch-finally\tre-catch-finally\obj\Debug\netcoreapp2.1\tre-catch-finally.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\tre-catch-finally\tre-catch-finally\obj\Debug\netcoreapp2.1\tre-catch-finally.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\tre-catch-finally\tre-catch-finally\obj\Debug\netcoreapp2.1\tre-catch-finally.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\tre-catch-finally\tre-catch-finally\bin\Debug\netcoreapp2.1\tre-catch-finally.deps.json
+C:\Users\OMISTAJA\source\repos\tre-catch-finally\tre-catch-finally\bin\Debug\netcoreapp2.1\tre-catch-finally.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\tre-catch-finally\tre-catch-finally\bin\Debug\netcoreapp2.1\tre-catch-finally.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\tre-catch-finally\tre-catch-finally\bin\Debug\netcoreapp2.1\tre-catch-finally.dll
+C:\Users\OMISTAJA\source\repos\tre-catch-finally\tre-catch-finally\bin\Debug\netcoreapp2.1\tre-catch-finally.pdb
+C:\Users\OMISTAJA\source\repos\tre-catch-finally\tre-catch-finally\obj\Debug\netcoreapp2.1\tre-catch-finally.dll
+C:\Users\OMISTAJA\source\repos\tre-catch-finally\tre-catch-finally\obj\Debug\netcoreapp2.1\tre-catch-finally.pdb

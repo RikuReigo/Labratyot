@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\For-silmukka\For-silmukka\bin\Debug\netcoreapp2.1\For-silmukka.deps.json
+C:\Users\OMISTAJA\source\repos\For-silmukka\For-silmukka\bin\Debug\netcoreapp2.1\For-silmukka.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\For-silmukka\For-silmukka\bin\Debug\netcoreapp2.1\For-silmukka.runtimeconfig.dev.json
+C:\Users\OMISTAJA\source\repos\For-silmukka\For-silmukka\bin\Debug\netcoreapp2.1\For-silmukka.dll
+C:\Users\OMISTAJA\source\repos\For-silmukka\For-silmukka\bin\Debug\netcoreapp2.1\For-silmukka.pdb
+C:\Users\OMISTAJA\source\repos\For-silmukka\For-silmukka\obj\Debug\netcoreapp2.1\For-silmukka.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\For-silmukka\For-silmukka\obj\Debug\netcoreapp2.1\For-silmukka.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\For-silmukka\For-silmukka\obj\Debug\netcoreapp2.1\For-silmukka.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\For-silmukka\For-silmukka\obj\Debug\netcoreapp2.1\For-silmukka.dll
+C:\Users\OMISTAJA\source\repos\For-silmukka\For-silmukka\obj\Debug\netcoreapp2.1\For-silmukka.pdb
+C:\Users\OMISTAJA\source\repos\For-silmukka\For-silmukka\obj\Debug\netcoreapp2.1\For-silmukka.csprojAssemblyReference.cache

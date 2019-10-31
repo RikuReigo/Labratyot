@@ -1,0 +1,9 @@
+C:\Users\OMISTAJA\Documents\GitHub\Labratyot\kayttoliittyma1\kayttoliittyma-1\kayttoliittyma-1\bin\Debug\kayttoliittyma-1.exe.config
+C:\Users\OMISTAJA\Documents\GitHub\Labratyot\kayttoliittyma1\kayttoliittyma-1\kayttoliittyma-1\bin\Debug\kayttoliittyma-1.exe
+C:\Users\OMISTAJA\Documents\GitHub\Labratyot\kayttoliittyma1\kayttoliittyma-1\kayttoliittyma-1\bin\Debug\kayttoliittyma-1.pdb
+C:\Users\OMISTAJA\Documents\GitHub\Labratyot\kayttoliittyma1\kayttoliittyma-1\kayttoliittyma-1\obj\Debug\kayttoliittyma_1.Elokuvasovellus.resources
+C:\Users\OMISTAJA\Documents\GitHub\Labratyot\kayttoliittyma1\kayttoliittyma-1\kayttoliittyma-1\obj\Debug\kayttoliittyma_1.Properties.Resources.resources
+C:\Users\OMISTAJA\Documents\GitHub\Labratyot\kayttoliittyma1\kayttoliittyma-1\kayttoliittyma-1\obj\Debug\kayttoliittyma-1.csproj.GenerateResource.cache
+C:\Users\OMISTAJA\Documents\GitHub\Labratyot\kayttoliittyma1\kayttoliittyma-1\kayttoliittyma-1\obj\Debug\kayttoliittyma-1.exe
+C:\Users\OMISTAJA\Documents\GitHub\Labratyot\kayttoliittyma1\kayttoliittyma-1\kayttoliittyma-1\obj\Debug\kayttoliittyma-1.pdb
+C:\Users\OMISTAJA\Documents\GitHub\Labratyot\kayttoliittyma1\kayttoliittyma-1\kayttoliittyma-1\obj\Debug\kayttoliittyma-1.csprojAssemblyReference.cache

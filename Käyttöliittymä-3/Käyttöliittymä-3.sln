@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Käyttöliittymä-3", "Käyttöliittymä-3\Käyttöliittymä-3.csproj", "{E12CE9E8-C77E-4D07-ADC5-D4E9FCAF2135}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E12CE9E8-C77E-4D07-ADC5-D4E9FCAF2135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E12CE9E8-C77E-4D07-ADC5-D4E9FCAF2135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E12CE9E8-C77E-4D07-ADC5-D4E9FCAF2135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E12CE9E8-C77E-4D07-ADC5-D4E9FCAF2135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F9CFA19-3FC2-472D-B30A-E46172028116}
+	EndGlobalSection
+EndGlobal

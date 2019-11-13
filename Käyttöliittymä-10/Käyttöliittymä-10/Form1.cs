@@ -17,7 +17,10 @@ namespace Käyttöliittymä_10
         Point piste = new Point(0, 0);
 
         protected bool DoubleBufferedField { get => DoubleBuffered; set => DoubleBuffered = value; }
-        
+        /// <summary>
+        /// Creating bitmap, mouse hold bool and point for dragging around the picture.
+        /// Protected bool for DoubleBuffer in order to remove picture flicker.
+        /// </summary>
 
         public Form1()
         {
@@ -33,7 +36,11 @@ namespace Käyttöliittymä_10
             
 
         }
-
+        /// <summary>
+        /// Activating picture, drawing it and buffering it up.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Form1_MouseClick(object sender, MouseEventArgs e)
         { 
             
@@ -43,7 +50,11 @@ namespace Käyttöliittymä_10
         {
             _mouseleftdown = true;
         }
-
+        /// <summary>
+        /// Activate dragging
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void OnMouseMove(object sender, MouseEventArgs e)
         {
             if (_mouseleftdown == true)
@@ -53,6 +64,11 @@ namespace Käyttöliittymä_10
                 Invalidate();
             }
         }
+        /// <summary>
+        /// Move picture around by holding left mouse down.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
 
         private void OnMouseUp(object sender, MouseEventArgs e)
         {
@@ -62,6 +78,11 @@ namespace Käyttöliittymä_10
             Invalidate();
             
         }
+        /// <summary>
+        /// Deactivate Dragging and freeze picture on last coordinates.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
 
         private void Form1_Load(object sender, EventArgs e)
         {

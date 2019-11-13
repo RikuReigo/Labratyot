@@ -14,6 +14,9 @@ namespace Käyttöliittymä_9
     {
         Point piste = new Point(0,0);
         bool _mouseleftdown;
+        /// <summary>
+        /// Create point for picture and create dragging command.
+        /// </summary>
         public MainForm()
         {
             InitializeComponent();
@@ -50,6 +53,10 @@ namespace Käyttöliittymä_9
 
             DrawCordinates(Graf);
         }
+        /// <summary>
+        /// Draw the stickman!
+        /// </summary>
+        /// <param name="Graf"></param>
 
         private void DrawCordinates(Graphics Graf)
 
@@ -60,6 +67,11 @@ namespace Käyttöliittymä_9
 
                             new SolidBrush(Color.Black), 8, 30);
         }
+        /// <summary>
+        /// Give coordinates for draving.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void MainForm_MouseDown(object sender, MouseEventArgs e)
         {
             if (e.Button == MouseButtons.Left)
@@ -72,12 +84,21 @@ namespace Käyttöliittymä_9
 
             }
         }
+        /// <summary>
+        /// Relocate stickman to mouse coordinates. (Deactivated)
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
 
         private void OnMouseDown(object sender, MouseEventArgs e) 
         {
             _mouseleftdown = true;
         }
-
+        /// <summary>
+        /// Activate Dragging command.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void OnMouseMove(object sender, MouseEventArgs e) 
         {
             if (_mouseleftdown == true)
@@ -88,11 +109,21 @@ namespace Käyttöliittymä_9
                Invalidate();
             }
         }
+        /// <summary>
+        /// Drag the picture around by holding left mouse down.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
 
         private void OnMouseUp(object sender, MouseEventArgs e) 
         {
             _mouseleftdown = false;
         }
+        /// <summary>
+        /// Deactiavate dragging.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
 
         private void MainForm_MouseDown2(object sender, MouseEventArgs e)
 
@@ -117,7 +148,11 @@ namespace Käyttöliittymä_9
 
             Invalidate();
         }
-
+        /// <summary>
+        /// Set picture to given coordinates
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void MainForm_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.W)
@@ -137,6 +172,11 @@ namespace Käyttöliittymä_9
                 piste.X++;
             }
         }
+        /// <summary>
+        /// Have a hike with the stickman. Press WASD keys to move him around (slowly)
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
 
         private void MainForm_KeyUp(object sender, KeyEventArgs e)
         {

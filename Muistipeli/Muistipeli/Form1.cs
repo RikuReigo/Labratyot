@@ -12,117 +12,130 @@ namespace Muistipeli
 {
     public partial class Form1 : Form
     {
-        TableLayoutPanel gameboard;
-        int Rowcount = 4;
-        int Columncount =4;
-        float[] size = new float[] { 50f, 33f, 25f, 20f, 16f };
-        Button presskey;
 
-        Random positioner = new Random();
+        Random random = new Random();
 
-        List<string> icon = new List<string>()
-        {
-            "i","i","s","s","a","a","v","v","(","(","/","/","r","r","z","z"
-        };
+        List<String> Images = new List<string>()
+        {"!","!","N","N",",",",","k","k","O","O","v","v","W","W","z","z"};
 
-        List<string> shape = new List<string>()
-        {
-            "g","g","c","c","n","n","x","x","y","y","l","l","N","N","O","O"
-        };
+        List<String> Vehicles = new List<String>()
+        {"f","f","h","h","j","j","p","p","b","b","v","v","o","o","t","t","u","u"};
 
-        List<string> building = new List<string>()
-        {
-            "t","t","B","B","C","C","F","F","G","G","H","H","S","S","M","M"
-        };
+        List<String> Shapes = new List<string>()
+        {"a","a","d","d","g","g","n","n","r","r","x","x","Y","Y",".",".","*","*"};
 
-        List<string> vehicle = new List<string>()
-        {
-            "b","b","f","f","h","h","j","j","o","o","p","p","v","v","T","T"
-        };
+        Label FirstClick, SecondClick;
+
+       
+
         public Form1()
         {
             InitializeComponent();
         }
 
-        Label firstClicked, secondClicked;
-
-        private void createGameBoardhere()
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
-            int decider = Rowcount - 1;
-            gameboard = new TableLayoutPanel();
-            gameboard.Location = new System.Drawing.Point(20, 30);
-            gameboard.Size = new System.Drawing.Size(455, 455);
-            gameboard.BackColor = SystemColors.ActiveCaption;
-            gameboard.ColumnCount = Columncount;
-            //gameboard.ForeColor = SystemColors.ActiveCaption;
-            gameboard.RowCount = Rowcount;
-            Controls.Add(gameboard);
-
-            for (int x = 0; x < Columncount; x++)
-            {
-                gameboard.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, size[decider]));
-
-                for (int y = 0; y < Rowcount; y++)
-                {
-                    if (x == 0)
-                    {
-                        gameboard.RowStyles.Add(new RowStyle(SizeType.Percent, size[decider]));
-                    }
-                    presskey = new Button();
-                    presskey.Dock = DockStyle.Fill;
-                    //presskey.Text = "c";
-                    gameboard.Controls.Add(presskey , x, y);
-                    presskey.Font = new Font("Webdings", 38, FontStyle.Bold);
-                    //gameboard.Controls.Add(new Label { Text = "c", Anchor = AnchorStyles.Bottom, AutoSize = true }, x, y);
-                }
-
-            }
+            
         }
 
-        private void assignSymbolsToSquares(List<string> labelBox)
+        private void Label_click(object sender, EventArgs e)
         {
-            int randomNumber;
-            Label label;
-            Random random = new Random();
 
-            for (int i = 0; i < gameboard.Controls.Count; i++)
+            if (FirstClick != null && SecondClick != null)
+                return;
+
+            Label ClickedLabel = sender as Label;
+
+            if (ClickedLabel == null)
+                return;
+
+            if (ClickedLabel.ForeColor == Color.Black)
+                return;
+
+            if (FirstClick == null)
             {
-                if (gameboard.Controls[i].Text == null)
-                {
-                    gameboard.Controls[i].Text = "i";
-                }
+                FirstClick = ClickedLabel;
+                FirstClick.ForeColor = Color.Black;
+                return;
+            }
+
+            SecondClick = ClickedLabel;
+            SecondClick.ForeColor = Color.Black;
+
+            CheckForWinner();
+
+            if (FirstClick.Text == SecondClick.Text)
+            {
+                FirstClick = null;
+                SecondClick = null;
+            }
+            else
+                timer1.Start();
+           }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            timer1.Stop();
+            FirstClick.ForeColor = FirstClick.BackColor;
+            SecondClick.ForeColor = SecondClick.BackColor;
+
+            FirstClick = null;
+            SecondClick = null;
+        }
+
+        private void CheckForWinner() 
+        {
+            Label labelcheck;
+            for (int u = 0; u < tableLayoutPanel1.Controls.Count; u++)
+            {
+                labelcheck = tableLayoutPanel1.Controls[u] as Label;
+
+                if (labelcheck != null && labelcheck.ForeColor == labelcheck.BackColor)
+                    return;
+            }
+
+            MessageBox.Show("You have won!");
+            Close();
+        }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            
+        }
+
+        private void imagesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AssignIconsTosquares(Images);
+        }
+
+        private void shapesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AssignIconsTosquares(Shapes);
+        }
+
+        private void vehiclesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AssignIconsTosquares(Vehicles);
+        }
+
+        private void AssignIconsTosquares(List<String>Icons)
+        {
+            Label label;
+            int RandomNUmber;
+
+            for (int i = 0; i < tableLayoutPanel1.Controls.Count; i++)
+            {
+                if (tableLayoutPanel1.Controls[i] is Label)
+                { label = (Label)tableLayoutPanel1.Controls[i]; }
                 else
                     continue;
 
-                randomNumber = random.Next(0, labelBox.Count);
-                gameboard.Controls[i].Text = labelBox[randomNumber];
-                labelBox.RemoveAt(randomNumber);
+                RandomNUmber = random.Next(0, Icons.Count);
+                label.Text = Icons[RandomNUmber];
+
+                Icons.RemoveAt(RandomNUmber);
             }
-        }
 
-        private void vehicleGameToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            createGameBoardhere();
-            assignSymbolsToSquares(vehicle);
-
-        }
-
-        private void shapeGameToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            createGameBoardhere();
-            assignSymbolsToSquares(shape);
-        }
-
-        private void sportGameToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            createGameBoardhere();
-            assignSymbolsToSquares(building);
-        }
-
-        private void iconGameToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            createGameBoardhere();
-            assignSymbolsToSquares(icon);
         }
     }
 }

@@ -20,8 +20,9 @@ namespace Autokauppa.model
         SqlConnection dbYhteys;
         SqlDataAdapter DA;
         DataSet DS;
+        int i = 0;
         
-        string DTgetter = "select * from auto";
+        string DTgetter = "select top(1) ([Hinta], [Rekisteri_paivamaara], [Moottorin_tilavuus], [Mittarilukema], [AutonMerkkiID], [AutonMalliID], [VaritID], [PolttoaineID]) from auto where ID = '" + i + "'";
 
         public DatabaseHallinta()
         {
@@ -207,13 +208,19 @@ namespace Autokauppa.model
 
         public List<string> ShowNext()
         {
+            i++;
+            dbYhteys.Open();
             List<string> palaute = new List<string>();
+            dbYhteys.Close();
             return palaute;
         }
 
         public List<string> ShowPrevious()
         {
+            i--;
+            dbYhteys.Open();
             List<string> palaute = new List<string>();
+            dbYhteys.Close();
             return palaute;
         }
 
